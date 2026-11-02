@@ -1,0 +1,58 @@
+Angèle Gomis (Mendy)
+
+Data Project Engineer | AI Engineer · Lausanne, Switzerland
+
+I turn manual business processes into production Python systems, from requirements gathering to deployment. With a background in private banking and customer operations, I start from the business problem, then build the data pipeline, the model or the application that solves it.
+
+Recent delivery: Romande Energie (Swiss energy utility)
+Ingénieur Chef de projets Data, 2024 – 2026
+
+Designed and delivered end-to-end, as sole developer, a load-curve (CCH) reconciliation application used daily by the metering teams, replacing a fully manual process.
+
+Multi-level matching engine across SAP IS-U, Pronovo and field readings (SRI, POD, fuzzy matching), with configurable thresholds, simulation mode and automated decision-support reports: 11,000 corrections, 99.8% automated
+Automated anomaly classification, KPIs and system-health indicators covering 20,000+ renewable-energy installations (business rules, feed-in remuneration, 30 kVA threshold, battery and extension detection)
+M&A integration: automated migration of an acquired company's data into SAP IS-U, with zero manual entry
+Data governance (dispatching, business ownership, data lifecycle) and QlikSense dashboard improvements, working across metering data management, operations and network security teams
+
+Featured projects
+Project	Description	Stack
+
+Clothing image segmentation	
+https://github.com/MendyData/Projet-2-Requetez-des-services-IA
+End-to-end semantic segmentation pipeline on 18 clothing classes with SegFormer B3, deployed as a Hugging Face demo	PyTorch, Hugging Face Transformers
+RAG evaluation pipeline	Evaluation workflow for a retrieval-augmented generation system: orchestration with LangGraph, tracing and evaluation with LangSmith	LangChain, LangGraph, LangSmith
+
+HR attrition analysis	
+https://github.com/MendyData/P4_classification_rh
+Attrition drivers for TechNova Partners: supervised modelling, class imbalance handled with SMOTE, SHAP interpretability and actionable recommendations	scikit-learn, imbalanced-learn, SHAP
+
+Earlier work: Data Analyst Bachelor portfolio
+https://github.com/MendyData/Livrables
+(OpenClassrooms × ENSAE, 2021 – 2022): public health study, sales analysis in Python, gender-equality indicators with KNIME, market study, counterfeit banknote detection.
+
+
+Technical skills
+Area	Tools
+Languages	Python (pandas, NumPy), SQL
+Machine learning & deep learning	scikit-learn, PyTorch, TensorFlow, SHAP, Hugging Face
+LLM & agents	LangChain, LangGraph, LangSmith, RAG
+Engineering & MLOps	Git, Docker, Weights & Biases, REST APIs, Poetry, Conda
+Data visualisation & BI	Matplotlib, Plotly, Power BI, Tableau, QlikSense
+Enterprise systems	SAP IS-U, Pronovo, JIRA
+
+Currently
+AI Engineer program, OpenClassrooms × ENSAE Paris (RNCP level 7, Master's equivalent): machine learning, deep learning, computer vision, NLP, MLOps
+AWS SAA 2026
+
+
+Background
+· Bachelor Data Analyst, OpenClassrooms × ENSAE Paris (2022) 
+· Private Banking Certificate, ISFB Geneva (2017) 
+· 15 years of client-facing experience, including Union Bancaire Privée in Geneva, with 5+ years in technical environments.
+
+
+Open to data project, analytics and AI engineering roles in the Lake Geneva region.
+
+Contact
+Email: mellegomis@gmail.com
+LinkedIn: angele-mendy-656-data-analyst
